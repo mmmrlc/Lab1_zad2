@@ -9,6 +9,8 @@ using System.Threading.Tasks;
 using System.Windows.Forms;
 
 namespace Lab1_zad2
+
+//asdfghwertydfgh
 {
     public partial class Form1 : Form
     {
